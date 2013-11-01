@@ -1,4 +1,8 @@
 fantom_hydra
 ============
 
-Fantomproject for testing and development
+Fantomproject to work with Github API;
+
+It has multiple branches and each branch has different project files;
+
+
